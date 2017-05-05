@@ -5,3 +5,6 @@ Git hello world.
 excuse me? happy?
 
 compared with second file
+
+word dict vs. stage??
+where and where (before add, should show in 'git diff')
