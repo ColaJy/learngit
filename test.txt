@@ -8,3 +8,5 @@ compared with second file
 
 word dict vs. stage??
 where and where (before add, should show in 'git diff')
+
+work vs. master
