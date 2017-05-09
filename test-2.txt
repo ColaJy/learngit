@@ -2,3 +2,5 @@ what's this?
 changed 1
 
 create a new branch -dev- merge into master
+
+im now in the master branch.
