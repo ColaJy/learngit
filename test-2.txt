@@ -10,3 +10,11 @@ im now in the master branch.
 create new branch new-dev-2
 
 dev-3 hahahha but i've been merged fast-forward by master...
+
+
+please, im in branch new-dev-2 ...
+[now fix master conflict]
+
+start a new branch : issue-1
+start a new branch : issue-2
+
