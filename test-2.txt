@@ -8,3 +8,5 @@ im now in the master branch.
 -- im in new-dev branch (later merged)
 
 create new branch new-dev-2
+
+please, im in branch new-dev-2 ...
